@@ -11,5 +11,4 @@ connection.close()
 print("Daftar Siswa")
 print(students)
 print("Data Telah Ditampilkan")
-print(ini dari banch compose
-      )
+print(ini dari banch compose)
